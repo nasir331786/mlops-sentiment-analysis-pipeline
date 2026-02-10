@@ -302,7 +302,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 For questions, suggestions, or collaborations:
 - Open an issue on GitHub
 - Connect on LinkedIn
-- Email: nasirtamanne@gmail.com
+- Email: nasirhusain1137@gmail.com
 
 ---
 
