@@ -278,7 +278,7 @@ For detailed documentation, see:
 **Nasir Husain Tamanne**  
 - 🔗 GitHub: [@nasir331786](https://github.com/nasir331786)  
 - 💼 LinkedIn: [nasir-husain-tamanne](https://www.linkedin.com/in/nasir-husain-tamanne-9b9981377/)  
-- 📧 Email: nasirtamanne@gmail.com
+- 📧 Email: nasirhusain1137@gmail.com
 
 ---
 
